@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         FBM CMS Themes
+// @name         Footbridge Media CMS Themes
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.02
 // @description  Footbridge Media CMS Themes
 // @author       Steven Lawson
 // @match        *://localhost:*/fbm-cms/page-editor
@@ -301,4 +301,4 @@ function Additionals() {
 }
 
 
-console.log('FBM Themes Started');
+console.log('Footbridge Media CMS Themes Started');
