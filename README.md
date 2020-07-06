@@ -1,6 +1,6 @@
 # [Steven Lawson's FBM CMS Theme]
 
-## [**🢂 CLICK HERE TO INSTALL! 🢀**](https://github.com/stevenfootbridge/fbm_cms_themes/raw/master/fbm_cms_themes.user.js)
+## [**🢂 CLICK HERE TO INSTALL! 🢀**](https://github.com/stevenfootbridge/FootBridge-CMS-Themes/raw/master/fbm_cms_themes.user.js)
 
 ---
 
