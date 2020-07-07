@@ -6,7 +6,7 @@
 
 ## Script Requirements:
 
-To utilize these scripts, you are required to have a compatible website browser,and the Tampermonkey extension for matches that browser.   
+To utilize these scripts, you are required to have a compatible website browser, along with the Tampermonkey extension that matches the browser.   
 Method 1: [CHROME](https://www.google.com/chrome/) + [TamperMonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)  
 Method 2: [OPERA](https://www.opera.com/) + [TamperMonkey for Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)  
 Method 3: [BRAVE](https://brave.com/download/) + [TamperMonkey for Brave/Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)  
