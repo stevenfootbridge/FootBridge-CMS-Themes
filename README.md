@@ -23,6 +23,11 @@ Method 3: [BRAVE](https://brave.com/download/) + [TamperMonkey for Brave/Chrome]
 
 ---
 
+## Theme Preview:
+![Theme Preview](https://github.com/stevenfootbridge/FootBridge-CMS-Themes/blob/master/theme_preview.png?raw=true)
+
+---
+
 ## Troubleshooting:
 
 - Be sure you have [the latest version](https://github.com/stevenfootbridge/fbm_cms_themes/raw/master/fbm_cms_themes.user.js) of the script.
