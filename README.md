@@ -19,7 +19,11 @@ Method 3: [BRAVE](https://brave.com/download/) + [TamperMonkey for Brave/Chrome]
 3. Click [**🢂 CLICK HERE TO INSTALL! 🢀**](https://github.com/stevenfootbridge/FootBridge-CMS-Themes/raw/master/fbm_cms_themes.user.js)
 4. Tampermonkey Prompt should open in a new tab
 5. Click on 'Install'
-6. Visiting `*://localhost:*/fbm-cms/page-editor/*` or `*://localhost:*/fbm-cms/theme-manager/*` will apply your dark theme
+
+Supported Pages:
+1. `*://localhost:*/fbm-cms/page-editor/*`
+2. `*://localhost:*/fbm-cms/theme-manager/*`
+3. `*://localhost:*/fbm-cms/find-and-replace`
 
 ---
 
