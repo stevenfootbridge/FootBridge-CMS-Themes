@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Footbridge Media CMS Themes
 // @namespace    http://tampermonkey.net/
-// @version      0.021
+// @version      0.022
 // @description  Footbridge Media CMS Themes
 // @author       Steven Lawson
 // @match        *://localhost:*/fbm-cms/page-editor
