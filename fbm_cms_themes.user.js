@@ -289,7 +289,10 @@ button {
 var body = document.body
 
 window.addEventListener('load', function() {
+  var x = location.pathname;
+  if (x.startsWith("/fbm-cms/page-editor") == true) {
     Additionals()
+  }
 }, false);
 
 function Additionals() {
