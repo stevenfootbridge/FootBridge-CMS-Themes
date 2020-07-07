@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Footbridge Media CMS Themes
 // @namespace    http://tampermonkey.net/
-// @version      0.02
+// @version      0.021
 // @description  Footbridge Media CMS Themes
 // @author       Steven Lawson
 // @match        *://localhost:*/fbm-cms/page-editor
@@ -9,11 +9,17 @@
 
 // @match        *://localhost:*/fbm-cms/theme-manager
 // @match        *://localhost:*/fbm-cms/theme-manager/*
+
+// @match        *://localhost:*/fbm-cms/find-and-replace
+
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
 
 GM_addStyle(`
+body, html, footer {
+    background-color: #272b33;
+}
 body {
     color: #9ca4b3;
 }
@@ -271,7 +277,12 @@ button {
 	border-radius:100px;
 }
 
+/*------ find and replace page ------*/
 
+.far-page-matches-container>.row>.col-xl,
+.far-page-matches-container>.installer-navigation-buttons>.col-xl {
+	background-color: #1a1c21;
+}
 
 `);
 
