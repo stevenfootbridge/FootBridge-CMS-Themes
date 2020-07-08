@@ -284,6 +284,20 @@ button {
 	background-color: #1a1c21;
 }
 
+/*------ link finder pop up ------*/
+.link-context-menu {
+	background-color: #1a1c21;
+	border:1px solid #1a1c21;
+}
+
+/*-- results --*/
+.link-cm-result-item {
+	background-color: #1a1c21;
+}
+.link-cm-result-item:hover {
+	background-color: #7289da;
+}
+
 `);
 
 var body = document.body
@@ -302,15 +316,6 @@ function Additionals() {
 
   var save_button = document.getElementById("content-editor-options-bar").getElementsByTagName('section')[1].getElementsByTagName('button')[0]
   save_button.innerHTML = '<i class="fas fa-save"></i> Save'
-
-  var body_tab = document.getElementById("content-editor-tabs-container").getElementsByTagName('button')[0].getElementsByTagName('span')[0]
-  body_tab.innerHTML = '<i class="fas fa-align-justify"></i> Body'
-
-  var head_tab = document.getElementById("content-editor-tabs-container").getElementsByTagName('button')[1].getElementsByTagName('span')[0]
-  head_tab.innerHTML = '<i class="fas fa-code"></i> Head'
-
-  var page_data_tab = document.getElementById("content-editor-tabs-container").getElementsByTagName('button')[2].getElementsByTagName('span')[0]
-  page_data_tab.innerHTML = '<i class="fas fa-sitemap"></i> Page Data'
 
 }
 
