@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Footbridge Media CMS Themes
 // @namespace    http://tampermonkey.net/
-// @version      0.023
+// @version      0.024
 // @description  Footbridge Media CMS Themes
 // @author       Steven Lawson
 // @match        *://localhost:*/fbm-cms/page-editor
@@ -286,7 +286,7 @@ button {
 
 /*------ link finder pop up ------*/
 .link-context-menu {
-	background-color: #1a1c21;
+	background-color: #20242a;
 	border:1px solid #1a1c21;
 }
 
@@ -296,6 +296,7 @@ button {
 }
 .link-cm-result-item:hover {
 	background-color: #7289da;
+	color: #1a1c21;
 }
 
 `);
